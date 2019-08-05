@@ -1,0 +1,12 @@
+Enterprise Application Integration:-In EAI,Message format conversation is used to convert and pass the message based on the requirement.
+ 
+ 2.Protcol Conversation:-We can also use protcols like Soap and Rest to sending  the messages to Subscriber.
+ 3.Content Based Routing:-It is nothing but page navigation in Synchronous Way.
+ 4.One to many delivery:-It will sending messages through files to one publisher to many subscribers.
+ 5.Loose Coupling:-EAI is 1.0 is tightly coupled it performance is slow,its taking too much time to create interfaces.In EAI 2.0 Loosely coupled So its performance is high.
+ 6.Transaction Auditing:-It is nothing but a sending and receiving messages through publisher and Subscriber.
+ 7.Transaction Resubmission:-If you sending message is failed in the middle of the procedure,that time Transaction resubmission is do the recycle mechanism then where the message stopped,it will processing from again now on.
+ 8.Reconcillation:-Easily integrate the Source System to Target System.
+ 
+ * WMQ:Its performance is high because of its operation done in maps.So,maps can easily integrate one format to another  without complexity.
+  
